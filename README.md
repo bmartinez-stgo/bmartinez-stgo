@@ -18,7 +18,7 @@
 
 🤝 Let's Connect!
 
-    LinkedIn: [LinkedIn Profile] (https://www.linkedin.com/in/bernardo-martinez-santiago-7270a752/)
+    LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bernardo-martinez-santiago-7270a752/)
     Email: bernardo.martinez.stgo@gmail.com
 
 Feel free to reach out for collaborations or just a tech chat!
